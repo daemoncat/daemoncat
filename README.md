@@ -1,6 +1,3 @@
--  Hi, I’m @daemoncat
--  I’m interested in ethical hacking.
--  I’m currently learning coding/bash
--  I’m looking to collaborate on learning networcking/computer coding
-
-
+hi. this is my VERY annoying ext for chrome.
+send this to your freind to annoy them.
+have fun :D
